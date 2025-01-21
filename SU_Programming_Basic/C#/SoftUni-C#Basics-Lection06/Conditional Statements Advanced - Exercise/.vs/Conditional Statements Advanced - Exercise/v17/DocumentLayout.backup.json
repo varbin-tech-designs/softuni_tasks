@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C169921E-20D4-46B9-B35A-B83CC276B4F8}|08. OnTimeToTheExam\\08. OnTimeToTheExam.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection06\\conditional statements advanced - exercise\\08. ontimetotheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C169921E-20D4-46B9-B35A-B83CC276B4F8}|08. OnTimeToTheExam\\08. OnTimeToTheExam.csproj|solutionrelative:08. ontimetotheexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB06BE15-1181-4668-B24F-6C9DDE1A2F3A}|07. Hotel Room\\07. Hotel Room.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection06\\conditional statements advanced - exercise\\07. hotel room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB06BE15-1181-4668-B24F-6C9DDE1A2F3A}|07. Hotel Room\\07. Hotel Room.csproj|solutionrelative:07. hotel room\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF3D2B2-AFFA-4FE4-8E20-DFAF5824EE37}|06. Oper Btw Nums\\06. Oper Btw Nums.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection06\\conditional statements advanced - exercise\\06. oper btw nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDF3D2B2-AFFA-4FE4-8E20-DFAF5824EE37}|06. Oper Btw Nums\\06. Oper Btw Nums.csproj|solutionrelative:06. oper btw nums\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE49DF78-524A-4BCB-BBD6-AC4F38BCD495}|05. Journey\\05. Journey.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection06\\conditional statements advanced - exercise\\05. journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE49DF78-524A-4BCB-BBD6-AC4F38BCD495}|05. Journey\\05. Journey.csproj|solutionrelative:05. journey\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A088A5-2218-4EED-AF15-617A85CAD684}|04. Fishing Boat\\04. Fishing Boat.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection06\\conditional statements advanced - exercise\\04. fishing boat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A088A5-2218-4EED-AF15-617A85CAD684}|04. Fishing Boat\\04. Fishing Boat.csproj|solutionrelative:04. fishing boat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\08. OnTimeToTheExam\\Program.cs",
+              "RelativeDocumentMoniker": "08. OnTimeToTheExam\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\08. OnTimeToTheExam\\Program.cs",
+              "RelativeToolTip": "08. OnTimeToTheExam\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:01:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\Program.cs",
+              "RelativeDocumentMoniker": "07. Hotel Room\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\Program.cs",
+              "RelativeToolTip": "07. Hotel Room\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T15:40:30.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\06. Oper Btw Nums\\Program.cs",
+              "RelativeDocumentMoniker": "06. Oper Btw Nums\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\06. Oper Btw Nums\\Program.cs",
+              "RelativeToolTip": "06. Oper Btw Nums\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:58:51.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\05. Journey\\Program.cs",
+              "RelativeDocumentMoniker": "05. Journey\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\05. Journey\\Program.cs",
+              "RelativeToolTip": "05. Journey\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:39:16.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\Program.cs",
+              "RelativeDocumentMoniker": "04. Fishing Boat\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection06\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\Program.cs",
+              "RelativeToolTip": "04. Fishing Boat\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T14:08:01.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\bin\Debug\net8.0\06. Speed Info.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\bin\Debug\net8.0\06. Speed Info.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\bin\Debug\net8.0\06. Speed Info.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\bin\Debug\net8.0\06. Speed Info.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\bin\Debug\net8.0\06. Speed Info.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\refint\06. Speed Info.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\06. Speed Info.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\06. Speed Info\obj\Debug\net8.0\ref\06. Speed Info.dll

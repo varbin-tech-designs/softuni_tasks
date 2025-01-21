@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\bin\Debug\net8.0\04. Personal Titles.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\refint\04. Personal Titles.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\04. Personal Titles.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection05\Conditional Statements Advanced - Lab\04. Personal Titles\obj\Debug\net8.0\ref\04. Personal Titles.dll

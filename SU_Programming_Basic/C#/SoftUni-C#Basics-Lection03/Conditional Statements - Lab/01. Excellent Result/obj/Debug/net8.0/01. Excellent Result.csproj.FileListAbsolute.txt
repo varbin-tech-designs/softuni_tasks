@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\bin\Debug\net8.0\01. Excellent Result.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\refint\01. Excellent Result.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\01. Excellent Result.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\01. Excellent Result\obj\Debug\net8.0\ref\01. Excellent Result.dll

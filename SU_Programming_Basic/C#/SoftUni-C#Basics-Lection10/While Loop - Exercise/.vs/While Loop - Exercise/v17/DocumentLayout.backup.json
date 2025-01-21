@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3A104EA-FC7A-4571-88AC-DE716104DE47}|07. Moving\\07. Moving.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3A104EA-FC7A-4571-88AC-DE716104DE47}|07. Moving\\07. Moving.csproj|solutionrelative:07. moving\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616A080E-315B-4A40-BBA7-02A3F6FEE022}|06. Cake\\06. Cake.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616A080E-315B-4A40-BBA7-02A3F6FEE022}|06. Cake\\06. Cake.csproj|solutionrelative:06. cake\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BDF2D76-74A8-4A98-8E89-4015440466BC}|05. Coins\\05. Coins.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BDF2D76-74A8-4A98-8E89-4015440466BC}|05. Coins\\05. Coins.csproj|solutionrelative:05. coins\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B392E7CF-F8B5-4DE6-BFAC-4DF39503C02D}|04. Walking\\04. Walking.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B392E7CF-F8B5-4DE6-BFAC-4DF39503C02D}|04. Walking\\04. Walking.csproj|solutionrelative:04. walking\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F26811DF-9227-474D-80D5-519F4C4D239A}|03. Vacation\\03. Vacation.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F26811DF-9227-474D-80D5-519F4C4D239A}|03. Vacation\\03. Vacation.csproj|solutionrelative:03. vacation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EB73607-87EC-43F1-A9DA-38A192EFECC2}|02. Exam Preparation\\02. Exam Preparation.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EB73607-87EC-43F1-A9DA-38A192EFECC2}|02. Exam Preparation\\02. Exam Preparation.csproj|solutionrelative:02. exam preparation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA2B20D7-061B-4288-892C-DAB5A6AD4B19}|01. Old Books\\01. Old Books.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection10\\while loop - exercise\\01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA2B20D7-061B-4288-892C-DAB5A6AD4B19}|01. Old Books\\01. Old Books.csproj|solutionrelative:01. old books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeDocumentMoniker": "07. Moving\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\07. Moving\\Program.cs",
+              "RelativeToolTip": "07. Moving\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:37:23.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeDocumentMoniker": "06. Cake\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\06. Cake\\Program.cs",
+              "RelativeToolTip": "06. Cake\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T10:19:26.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeDocumentMoniker": "05. Coins\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\05. Coins\\Program.cs",
+              "RelativeToolTip": "05. Coins\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T09:06:38.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeDocumentMoniker": "04. Walking\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\04. Walking\\Program.cs",
+              "RelativeToolTip": "04. Walking\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T18:39:25.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeDocumentMoniker": "03. Vacation\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\03. Vacation\\Program.cs",
+              "RelativeToolTip": "03. Vacation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T10:20:13.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeDocumentMoniker": "02. Exam Preparation\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\02. Exam Preparation\\Program.cs",
+              "RelativeToolTip": "02. Exam Preparation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:55:40.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeDocumentMoniker": "01. Old Books\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection10\\While Loop - Exercise\\01. Old Books\\Program.cs",
+              "RelativeToolTip": "01. Old Books\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T09:20:27.237Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.AssemblyInfo.cs
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.exe
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.deps.json
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.runtimeconfig.json
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.dll
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net8.0\04. Even Powers of 2.pdb
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.dll
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\refint\04. Even Powers of 2.dll
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.pdb
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\04. Even Powers of 2.genruntimeconfig.cache
+C:\Users\STEFF\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net8.0\ref\04. Even Powers of 2.dll

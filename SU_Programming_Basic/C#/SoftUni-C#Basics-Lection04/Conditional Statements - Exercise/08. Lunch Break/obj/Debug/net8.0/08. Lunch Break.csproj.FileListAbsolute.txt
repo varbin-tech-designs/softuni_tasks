@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\bin\Debug\net8.0\08. Lunch Break.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\refint\08. Lunch Break.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\08. Lunch Break.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\08. Lunch Break\obj\Debug\net8.0\ref\08. Lunch Break.dll

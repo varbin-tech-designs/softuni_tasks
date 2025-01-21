@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ABCED91-D5F6-45AF-8288-F4416C5B297C}|09. Yard Greening\\09. Yard Greening.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\09. yard greening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ABCED91-D5F6-45AF-8288-F4416C5B297C}|09. Yard Greening\\09. Yard Greening.csproj|solutionrelative:09. yard greening\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC22E3DA-BFBE-4554-B00E-25712BB65B41}|08. Pet Shop\\08. Pet Shop.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\08. pet shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC22E3DA-BFBE-4554-B00E-25712BB65B41}|08. Pet Shop\\08. Pet Shop.csproj|solutionrelative:08. pet shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{274769BA-2DDC-4A59-A93C-F40643E832CF}|07. Projects Creation\\07. Projects Creation.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\07. projects creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{274769BA-2DDC-4A59-A93C-F40643E832CF}|07. Projects Creation\\07. Projects Creation.csproj|solutionrelative:07. projects creation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB2C0A4C-56B1-4175-B5B2-BFDC9FEC0A81}|06. Concatenate Data\\06. Concatenate Data.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB2C0A4C-56B1-4175-B5B2-BFDC9FEC0A81}|06. Concatenate Data\\06. Concatenate Data.csproj|solutionrelative:06. concatenate data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C40C2FF-DD2F-477B-B7A7-94B751C10EF0}|05. Greeting by Name\\05. Greeting by Name.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C40C2FF-DD2F-477B-B7A7-94B751C10EF0}|05. Greeting by Name\\05. Greeting by Name.csproj|solutionrelative:05. greeting by name\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC8AECC-1B2B-4529-B1DC-545B11AF0EC9}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC8AECC-1B2B-4529-B1DC-545B11AF0EC9}|04. Inches to Centimeters\\04. Inches to Centimeters.csproj|solutionrelative:04. inches to centimeters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8BDB0FB-AF46-4A0A-803B-05FC4453B08E}|03. Rectangle Area\\03. Rectangle Area.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection01\\first steps in coding - lab\\03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8BDB0FB-AF46-4A0A-803B-05FC4453B08E}|03. Rectangle Area\\03. Rectangle Area.csproj|solutionrelative:03. rectangle area\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\09. Yard Greening\\Program.cs",
+              "RelativeDocumentMoniker": "09. Yard Greening\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\09. Yard Greening\\Program.cs",
+              "RelativeToolTip": "09. Yard Greening\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:58:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\08. Pet Shop\\Program.cs",
+              "RelativeDocumentMoniker": "08. Pet Shop\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\08. Pet Shop\\Program.cs",
+              "RelativeToolTip": "08. Pet Shop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:53:13.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\07. Projects Creation\\Program.cs",
+              "RelativeDocumentMoniker": "07. Projects Creation\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\07. Projects Creation\\Program.cs",
+              "RelativeToolTip": "07. Projects Creation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:49:15.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\06. Concatenate Data\\Program.cs",
+              "RelativeDocumentMoniker": "06. Concatenate Data\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\06. Concatenate Data\\Program.cs",
+              "RelativeToolTip": "06. Concatenate Data\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:42:55.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\05. Greeting by Name\\Program.cs",
+              "RelativeDocumentMoniker": "05. Greeting by Name\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\05. Greeting by Name\\Program.cs",
+              "RelativeToolTip": "05. Greeting by Name\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:39:24.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\04. Inches to Centimeters\\Program.cs",
+              "RelativeDocumentMoniker": "04. Inches to Centimeters\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\04. Inches to Centimeters\\Program.cs",
+              "RelativeToolTip": "04. Inches to Centimeters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:25:18.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\03. Rectangle Area\\Program.cs",
+              "RelativeDocumentMoniker": "03. Rectangle Area\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection01\\First Steps In Coding - Lab\\03. Rectangle Area\\Program.cs",
+              "RelativeToolTip": "03. Rectangle Area\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:20:58.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

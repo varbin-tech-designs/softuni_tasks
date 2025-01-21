@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\bin\Debug\net8.0\02. Greater Number.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\refint\02. Greater Number.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\02. Greater Number.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection03\Conditional Statements - Lab\02. Greater Number\obj\Debug\net8.0\ref\02. Greater Number.dll

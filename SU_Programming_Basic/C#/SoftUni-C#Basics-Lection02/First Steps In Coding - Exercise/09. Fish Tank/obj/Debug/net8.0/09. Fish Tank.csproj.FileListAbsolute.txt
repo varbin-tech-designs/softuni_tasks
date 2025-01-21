@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\bin\Debug\net8.0\09. Fish Tank.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\refint\09. Fish Tank.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\09. Fish Tank.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection02\First Steps In Coding - Exercise\09. Fish Tank\obj\Debug\net8.0\ref\09. Fish Tank.dll

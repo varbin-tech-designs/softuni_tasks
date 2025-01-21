@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\bin\Debug\net8.0\08. OnTimeToTheExam.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\bin\Debug\net8.0\08. OnTimeToTheExam.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\bin\Debug\net8.0\08. OnTimeToTheExam.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\bin\Debug\net8.0\08. OnTimeToTheExam.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\bin\Debug\net8.0\08. OnTimeToTheExam.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\refint\08. OnTimeToTheExam.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\08. OnTimeToTheExam.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\08. OnTimeToTheExam\obj\Debug\net8.0\ref\08. OnTimeToTheExam.dll

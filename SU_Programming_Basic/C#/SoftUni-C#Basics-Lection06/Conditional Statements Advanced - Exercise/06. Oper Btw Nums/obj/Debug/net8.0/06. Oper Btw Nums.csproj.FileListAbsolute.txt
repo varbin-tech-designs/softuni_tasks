@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\bin\Debug\net8.0\06. Oper Btw Nums.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\bin\Debug\net8.0\06. Oper Btw Nums.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\bin\Debug\net8.0\06. Oper Btw Nums.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\bin\Debug\net8.0\06. Oper Btw Nums.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\bin\Debug\net8.0\06. Oper Btw Nums.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\refint\06. Oper Btw Nums.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\06. Oper Btw Nums.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection06\Conditional Statements Advanced - Exercise\06. Oper Btw Nums\obj\Debug\net8.0\ref\06. Oper Btw Nums.dll

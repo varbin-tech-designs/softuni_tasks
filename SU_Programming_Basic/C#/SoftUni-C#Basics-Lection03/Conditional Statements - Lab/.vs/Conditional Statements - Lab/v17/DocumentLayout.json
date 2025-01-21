@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F62EC2BA-C6F4-4617-ABBF-98F7CBCAB7DA}|07. Area of Figures\\07. Area of Figures.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F62EC2BA-C6F4-4617-ABBF-98F7CBCAB7DA}|07. Area of Figures\\07. Area of Figures.csproj|solutionrelative:07. area of figures\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92558781-76F0-441B-9F3E-9A9E3876B0CB}|06. Speed Info\\06. Speed Info.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92558781-76F0-441B-9F3E-9A9E3876B0CB}|06. Speed Info\\06. Speed Info.csproj|solutionrelative:06. speed info\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C3B113-BB32-490A-9791-6C735C293EEE}|05. Number 100-200\\05. Number 100-200.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\05. number 100-200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C3B113-BB32-490A-9791-6C735C293EEE}|05. Number 100-200\\05. Number 100-200.csproj|solutionrelative:05. number 100-200\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642C9FD9-7991-47F8-80AF-8BB47B68E430}|04. Password Guess\\04. Password Guess.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642C9FD9-7991-47F8-80AF-8BB47B68E430}|04. Password Guess\\04. Password Guess.csproj|solutionrelative:04. password guess\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0269490B-8B63-480F-94BE-7B362BC3C1E5}|03. Even or Odd\\03. Even or Odd.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0269490B-8B63-480F-94BE-7B362BC3C1E5}|03. Even or Odd\\03. Even or Odd.csproj|solutionrelative:03. even or odd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B537501-9A8E-45EA-946D-1F74D9564E47}|02. Greater Number\\02. Greater Number.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B537501-9A8E-45EA-946D-1F74D9564E47}|02. Greater Number\\02. Greater Number.csproj|solutionrelative:02. greater number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3654DD5B-D967-4F02-BF83-5149B1191189}|01. Excellent Result\\01. Excellent Result.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection03\\conditional statements - lab\\01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3654DD5B-D967-4F02-BF83-5149B1191189}|01. Excellent Result\\01. Excellent Result.csproj|solutionrelative:01. excellent result\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\07. Area of Figures\\Program.cs",
+              "RelativeDocumentMoniker": "07. Area of Figures\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\07. Area of Figures\\Program.cs",
+              "RelativeToolTip": "07. Area of Figures\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:10:20.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\06. Speed Info\\Program.cs",
+              "RelativeDocumentMoniker": "06. Speed Info\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\06. Speed Info\\Program.cs",
+              "RelativeToolTip": "06. Speed Info\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:03:59.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\05. Number 100-200\\Program.cs",
+              "RelativeDocumentMoniker": "05. Number 100-200\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\05. Number 100-200\\Program.cs",
+              "RelativeToolTip": "05. Number 100-200\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T17:00:40.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeDocumentMoniker": "04. Password Guess\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\04. Password Guess\\Program.cs",
+              "RelativeToolTip": "04. Password Guess\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:53:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeDocumentMoniker": "03. Even or Odd\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\03. Even or Odd\\Program.cs",
+              "RelativeToolTip": "03. Even or Odd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:51:04.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeDocumentMoniker": "02. Greater Number\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\02. Greater Number\\Program.cs",
+              "RelativeToolTip": "02. Greater Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:45:05.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeDocumentMoniker": "01. Excellent Result\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection03\\Conditional Statements - Lab\\01. Excellent Result\\Program.cs",
+              "RelativeToolTip": "01. Excellent Result\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T16:36:08.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

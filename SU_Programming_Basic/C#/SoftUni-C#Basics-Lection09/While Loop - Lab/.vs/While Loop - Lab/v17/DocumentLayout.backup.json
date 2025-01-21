@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{463B3762-7EFF-438E-B53C-EDD831C2B49E}|08. Graduation\\08. Graduation.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{463B3762-7EFF-438E-B53C-EDD831C2B49E}|08. Graduation\\08. Graduation.csproj|solutionrelative:08. graduation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA57D143-A447-4F8C-9534-C2585ED4C015}|07. Min Number\\07. Min Number.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA57D143-A447-4F8C-9534-C2585ED4C015}|07. Min Number\\07. Min Number.csproj|solutionrelative:07. min number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5DC49D-2E38-4316-9AE7-BA254C710F26}|06. Max Number\\06. Max Number.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5DC49D-2E38-4316-9AE7-BA254C710F26}|06. Max Number\\06. Max Number.csproj|solutionrelative:06. max number\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEFF9396-A37B-4DE9-8A85-DA5639D542C1}|05. Account Balance\\05. Account Balance.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEFF9396-A37B-4DE9-8A85-DA5639D542C1}|05. Account Balance\\05. Account Balance.csproj|solutionrelative:05. account balance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2425D2D-7F09-48CD-85F9-38683E8B701B}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2425D2D-7F09-48CD-85F9-38683E8B701B}|04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.csproj|solutionrelative:04. sequence 2k\u002B1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A0A5CCD-B2DB-4E03-8FE5-D84ED8FFE0CB}|03. Sum Numbers\\03. Sum Numbers.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A0A5CCD-B2DB-4E03-8FE5-D84ED8FFE0CB}|03. Sum Numbers\\03. Sum Numbers.csproj|solutionrelative:03. sum numbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DB31D42-F071-4CB1-96C2-3B0924D664A3}|02. Password\\02. Password.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DB31D42-F071-4CB1-96C2-3B0924D664A3}|02. Password\\02. Password.csproj|solutionrelative:02. password\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F71F773-49DF-4F4C-A048-E02C73E371D2}|01. Read Text\\01. Read Text.csproj|c:\\users\\steff\\source\\repos\\while loop - lab\\01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F71F773-49DF-4F4C-A048-E02C73E371D2}|01. Read Text\\01. Read Text.csproj|solutionrelative:01. read text\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeDocumentMoniker": "08. Graduation\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\08. Graduation\\Program.cs",
+              "RelativeToolTip": "08. Graduation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:17:38.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeDocumentMoniker": "07. Min Number\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\07. Min Number\\Program.cs",
+              "RelativeToolTip": "07. Min Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T16:03:08.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeDocumentMoniker": "06. Max Number\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\06. Max Number\\Program.cs",
+              "RelativeToolTip": "06. Max Number\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:57:57.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeDocumentMoniker": "05. Account Balance\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\05. Account Balance\\Program.cs",
+              "RelativeToolTip": "05. Account Balance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:28:07.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeDocumentMoniker": "04. Sequence 2k\u002B1\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\Program.cs",
+              "RelativeToolTip": "04. Sequence 2k\u002B1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:20:22.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeDocumentMoniker": "03. Sum Numbers\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\Program.cs",
+              "RelativeToolTip": "03. Sum Numbers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:09:47.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeDocumentMoniker": "02. Password\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\02. Password\\Program.cs",
+              "RelativeToolTip": "02. Password\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:02:28.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeDocumentMoniker": "01. Read Text\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\source\\repos\\While Loop - Lab\\01. Read Text\\Program.cs",
+              "RelativeToolTip": "01. Read Text\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:00:04.174Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

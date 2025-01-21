@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{738569A0-0F52-4444-825B-06BD9C4943A9}|09. Fish Tank\\09. Fish Tank.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{738569A0-0F52-4444-825B-06BD9C4943A9}|09. Fish Tank\\09. Fish Tank.csproj|solutionrelative:09. fish tank\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71A80ECE-5537-41F3-8258-6236CCBC4187}|08. Basketball Equipment\\08. Basketball Equipment.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71A80ECE-5537-41F3-8258-6236CCBC4187}|08. Basketball Equipment\\08. Basketball Equipment.csproj|solutionrelative:08. basketball equipment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37C70E32-D5DF-4469-957E-1390FBFBB801}|07. Food Delivery\\07. Food Delivery.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37C70E32-D5DF-4469-957E-1390FBFBB801}|07. Food Delivery\\07. Food Delivery.csproj|solutionrelative:07. food delivery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6389328F-51FE-40B4-AC3F-A1CE4DD973E4}|06. Repainting\\06. Repainting.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6389328F-51FE-40B4-AC3F-A1CE4DD973E4}|06. Repainting\\06. Repainting.csproj|solutionrelative:06. repainting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CC86C60-7B49-4A06-9601-BE062C893883}|05. Supplies for School\\05. Supplies for School.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CC86C60-7B49-4A06-9601-BE062C893883}|05. Supplies for School\\05. Supplies for School.csproj|solutionrelative:05. supplies for school\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87BC190B-4A16-42FC-AE2A-908EAD53872A}|02. Radians to Degrees\\02. Radians to Degrees.csproj|c:\\users\\steff\\desktop\\su_programming_basic\\c#\\softuni-c#basics-lection02\\first steps in coding - exercise\\02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87BC190B-4A16-42FC-AE2A-908EAD53872A}|02. Radians to Degrees\\02. Radians to Degrees.csproj|solutionrelative:02. radians to degrees\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeDocumentMoniker": "02. Radians to Degrees\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\02. Radians to Degrees\\Program.cs",
+              "RelativeToolTip": "02. Radians to Degrees\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:11:48.18Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeDocumentMoniker": "09. Fish Tank\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\09. Fish Tank\\Program.cs",
+              "RelativeToolTip": "09. Fish Tank\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:25:31.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeDocumentMoniker": "08. Basketball Equipment\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\08. Basketball Equipment\\Program.cs",
+              "RelativeToolTip": "08. Basketball Equipment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:17:43.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeDocumentMoniker": "07. Food Delivery\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\07. Food Delivery\\Program.cs",
+              "RelativeToolTip": "07. Food Delivery\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T23:10:48.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeDocumentMoniker": "06. Repainting\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\06. Repainting\\Program.cs",
+              "RelativeToolTip": "06. Repainting\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T22:55:17.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeDocumentMoniker": "05. Supplies for School\\Program.cs",
+              "ToolTip": "C:\\Users\\STEFF\\Desktop\\SU_Programming_Basic\\C#\\SoftUni-C#Basics-Lection02\\First Steps In Coding - Exercise\\05. Supplies for School\\Program.cs",
+              "RelativeToolTip": "05. Supplies for School\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T18:42:23.416Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

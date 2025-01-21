@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\bin\Debug\net8.0\01. Old Books.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\bin\Debug\net8.0\01. Old Books.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\bin\Debug\net8.0\01. Old Books.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\bin\Debug\net8.0\01. Old Books.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\bin\Debug\net8.0\01. Old Books.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\refint\01. Old Books.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\01. Old Books.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection10\While Loop - Exercise\01. Old Books\obj\Debug\net8.0\ref\01. Old Books.dll

@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\bin\Debug\net8.0\09. Yard Greening.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\refint\09. Yard Greening.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\09. Yard Greening.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection01\First Steps In Coding - Lab\09. Yard Greening\obj\Debug\net8.0\ref\09. Yard Greening.dll

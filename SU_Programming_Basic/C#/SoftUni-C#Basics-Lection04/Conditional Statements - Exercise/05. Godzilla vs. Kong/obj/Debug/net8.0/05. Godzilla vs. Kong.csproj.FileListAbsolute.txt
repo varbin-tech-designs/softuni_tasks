@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net8.0\05. Godzilla vs. Kong.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net8.0\05. Godzilla vs. Kong.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net8.0\05. Godzilla vs. Kong.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net8.0\05. Godzilla vs. Kong.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\bin\Debug\net8.0\05. Godzilla vs. Kong.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\refint\05. Godzilla vs. Kong.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\05. Godzilla vs. Kong.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\SoftUni-C#Basics-Lection04\Conditional Statements - Exercise\05. Godzilla vs. Kong\obj\Debug\net8.0\ref\05. Godzilla vs. Kong.dll

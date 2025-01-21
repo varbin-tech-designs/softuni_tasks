@@ -1,0 +1,14 @@
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\bin\Debug\net8.0\06 new.exe
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\bin\Debug\net8.0\06 new.deps.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\bin\Debug\net8.0\06 new.runtimeconfig.json
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\bin\Debug\net8.0\06 new.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\bin\Debug\net8.0\06 new.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.AssemblyInfoInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.AssemblyInfo.cs
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.csproj.CoreCompileInputs.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\refint\06 new.dll
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.pdb
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\06 new.genruntimeconfig.cache
+C:\Users\STEFF\Desktop\SU_Programming_Basic\C#\Exam\Exam\06 new\obj\Debug\net8.0\ref\06 new.dll
